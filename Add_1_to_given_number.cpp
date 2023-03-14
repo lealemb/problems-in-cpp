@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int Add_1_to_given_number(int n) {
 
 	int total = 0;
