@@ -6,7 +6,7 @@ using namespace std;
 int main() 
 {
     cout << "\n\n Formatting the output :\n";
-	cout << "----------------------------\n"; 
+    cout << "----------------------------\n"; 
    
    double pi = 3.14159265; // this is floating point number
    cout << fixed << setprecision(4); // number is set to display with 4 decimal places
